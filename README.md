@@ -25,7 +25,7 @@ we used '[PEP 8][pep8]'.
 
 ## For more information
 
-* [Website]()
+* [Website]() 
 * [White Papers]()
 
 Learn more about the TensorFlow community at the [community page of tensorflow.org](https://www.tensorflow.org/community) for a few ways to participate.
